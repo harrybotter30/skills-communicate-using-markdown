@@ -1,5 +1,7 @@
 # 毎日の学習
 
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 ## 朝の計画
 
 - [ ] トピックのアイデアについては[GitHubブログ](https://github.blog/)をチェックする。
