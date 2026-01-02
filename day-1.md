@@ -7,3 +7,9 @@
 - [ ] 初めてのブログ投稿を実際のウェブページに変換する。
 
 ## レビュー
+
+[ffmpeg](https://www.ffmpeg.org)を使用して画像や動画をダークモードからライトモードに変換する
+
+```bash
+ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
+```
